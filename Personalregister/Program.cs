@@ -40,7 +40,7 @@ namespace Personalregister
             while (menyRun == true)
             {
                 // MENY
-                Console.WriteLine("--- Personalregister ---");
+                Console.WriteLine("\n\n--- Personalregister ---");
                 Console.WriteLine("1. Lägg till personal");
                 Console.WriteLine("2. Visa alla personer");
                 Console.WriteLine("5. Avsluta");
